@@ -1,0 +1,103 @@
+Body {
+  margin:0;
+  text-align:center;
+  font-family: 'Cardo', serif;
+}
+
+.top-container {
+  background-color:#F1C6D3;
+  position:relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #FDEFEF;
+  padding: 100px 0;
+}
+
+.bottom-container {
+  margin-top:0;
+  background-color: #E75480;
+  padding: 20px 0 20px;
+}
+.copyright{
+  color:white;
+}
+hr
+{border-color:#E75480;
+border-style:dotted none none;
+border-width:5px;
+width:5%;
+margin:auto;
+padding:100px 0;
+}
+
+.skills{
+  padding-bottom: 100px;
+}
+.skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1 {
+  color:#A91079;
+  margin:50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size:5rem;
+}
+h2 {
+  font-weight: normal;
+  font-family: 'Charis SIL', serif;
+  font-size:2.5rem;
+}
+h3 {
+  color:#680747;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.circular {border-radius: 100%}
+
+.intro {
+  width:25%;
+  margin:auto;
+}
+
+.profile {
+  padding-bottom: 50px;
+}
+.bottom-cloud {
+  position:absolute;
+  left: 200px;
+  bottom:350px;
+}
+.top-cloud {
+  position:absolute;
+  right:200px;
+  top:50px;
+  }
+.skills-computer{
+  border-radius: 10%;
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.skills-crochet{
+  border-radius: 10%;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.contact-me{
+  margin-bottom: 0;
+}
+.contact-paragraph{
+  margin-bottom: 50px;
+}
+.btn{
+  color:black;
+  font-size: 30px;
+  background-color: #E75480;
+}
+.btn:hover{background-color: purple}
